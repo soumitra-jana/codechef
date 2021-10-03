@@ -39,7 +39,7 @@ Example case 2: If JS∈{2,4,6,8,10}, then JS is even and TS is odd, so Jerry wi
 CODE:
 
 
-
+# cook your dish here
 testcase = int(input())
 for g in range(testcase):
     ts = int(input())
